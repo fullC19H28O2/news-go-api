@@ -30,12 +30,6 @@ A lightweight and blazing-fast REST API written in **Go**, fetching live news fr
 
 ---
 
-##  Contributing
-
-Pull requests are welcome. Let’s build something fast, fun and useful!
-
----
-
 ## License
 
 MIT License — free to use and modify for personal or commercial projects.
